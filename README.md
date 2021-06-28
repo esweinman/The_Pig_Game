@@ -1,5 +1,7 @@
 # The_Pig_Game
-This is a simple mathematical two player game using HTML, CSS, and focusing on different elements of JavaScript.
+A mathematical two player game using HTML, CSS, and focusing on different elements of JavaScript.
+
+Click <a href="https://esweinman.github.io/The_Pig_Game/">here</a> to play!
 
 <h1> HOW TO PLAY </h1>
 
